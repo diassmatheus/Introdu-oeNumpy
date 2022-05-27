@@ -1,4 +1,4 @@
-# <p align="center"> <b> Curso: Data Science Primeiros Passos - Análise e Visualização de Dados. </b> 
+# <p align="center"> <b> Curso: Data Science Primeiros Passos - Análise e Visualização de Dados </b> 
 
 ####  ✏️ Curso da plataforma Alura <a href="https://cursos.alura.com.br/course/data-science-primeiros-passos">link</a> 
 ####  ⏰ Duração: 6h 
