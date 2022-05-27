@@ -1,6 +1,7 @@
 # <p align="center"> <b> Curso: Data Science Primeiros Passos - Análise e Visualização de Dados </b> 
 
-####  ✏️ Curso da plataforma Alura <a href="https://cursos.alura.com.br/course/data-science-primeiros-passos">link</a> 
+####  📓 <a href="https://github.com/diassmatheus/IntroducaoaDataScience/blob/main/Introdu%C3%A7%C3%A3o%20a%20Data%20Science.ipynb">Notebook</a> desenvolvido durante o curso   
+####  ✏️ Curso da plataforma <a href="https://cursos.alura.com.br/course/data-science-primeiros-passos">Alura</a> 
 ####  ⏰ Duração: 6h 
 ####  📜 Conteúdo:
 - Exploratory data analysis
@@ -9,4 +10,4 @@
 - Importância e primeiros passos em visualizações
 - Medidas de resumo
 - Exploração de dados em Python com Pandas, Matplotlib e Seaborn
-  
+####  ✅ <a href="https://cursos.alura.com.br/user/diassmatheus/course/ata-science-primeiros-passos/certificate">Certificado</a>
