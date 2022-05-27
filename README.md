@@ -10,4 +10,4 @@
 - Importância e primeiros passos em visualizações
 - Medidas de resumo
 - Exploração de dados em Python com Pandas, Matplotlib e Seaborn
-####  ✅ <a href="https://cursos.alura.com.br/user/diassmatheus/course/ata-science-primeiros-passos/certificate">Certificado</a>
+####  ✅ <a href="https://cursos.alura.com.br/user/diassmatheus/course/data-science-primeiros-passos/certificate">Certificado</a> - Finalizado em 01 de julho de 2021
